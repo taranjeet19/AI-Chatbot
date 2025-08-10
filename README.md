@@ -11,7 +11,7 @@ A simple and interactive AI chatbot built with **HTML**, **CSS**, and **JavaScri
 
 ## Demo
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9a9b3803-506d-4f4d-a4ba-d3660d46b4b9" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9a9b3803-506d-4f4d-a4ba-d3660d46b4b9" />
 
 
 ## Technologies Used
