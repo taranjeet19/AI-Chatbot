@@ -1,4 +1,4 @@
-<img width="1871" height="990" alt="image" src="https://github.com/user-attachments/assets/f9a58fc3-f9b6-47cb-b9f2-502fecc2e3de" /># Intellibot
+# Intellibot
 
 A simple and interactive AI chatbot built with **HTML**, **CSS**, and **JavaScript**, integrated with the **Gemini API** to provide intelligent and dynamic responses.
 
@@ -11,7 +11,7 @@ A simple and interactive AI chatbot built with **HTML**, **CSS**, and **JavaScri
 
 ## Demo
 
-<img width="1871" height="990" alt="image" src="https://github.com/user-attachments/assets/9a9b3803-506d-4f4d-a4ba-d3660d46b4b9" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9a9b3803-506d-4f4d-a4ba-d3660d46b4b9" />
 
 
 ## Technologies Used
